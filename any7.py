@@ -3,7 +3,7 @@ def any7(nums):
 
     # YOUR CODE HERE 
     for num in nums:
-        if num is 7:
+        if num == 7:
             return True
     return False
 
